@@ -45,14 +45,14 @@ EDA involved exploring the data to answer key questions, such as:
 - Performance Distribution: Many employees are rated as "Good", but a notable portion are “Not Rated” — this may require HR intervention.
 - Salary Equity: Salaries between genders are relatively balanced.
 
-### 🧠RECCOMENDATIONS
+### 🧠RECOMENDATIONS
 - Chart showing Ratings ("Good", "Average", "Poor", "Not Rated") across departments
 - Gender-based breakdown of performance
 - Focus on employee evaluation and how it aligns with department & gender
 
  ### 🤝Let’s Connect
   ***FAITH UDOKANMA IHUEZE***
- ##### Github: [http//github.com/faith79-create]
+ ##### Github: [http://github.com/faith79-create]
  ##### Email: faithamaefule@yahoo.com
 
 
