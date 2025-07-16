@@ -1,7 +1,9 @@
 # 🧠PALMORIA GROUP HR DATA ANALYSIS
 
 ### 📈PROJECT OVERVIEW
-This data analysis project aims to provide insights into the employee performance of Palmoria Group Company. By analyzing various aspects of the employee data, we seek to identify trends, make data driven recommendations, and gain a deeper understanding of the Company'scompensation, and Performance.
+This data analysis project aims to provide insights into the employee performance of Palmoria Group Company. 
+
+By analyzing various aspects of the employee data, we seek to identify trends, make data driven recommendations, and gain a deeper understanding of the Company'scompensation, and Performance.
 
 ### 🔎PROJECT OBJECTIVE
 The goal IS to build an interactive Power BI dashboard that transforms raw HR data into actionable insighs
@@ -27,8 +29,9 @@ The dataset has shown the real HR data from Palmora Group and includes the follo
 
 ### 📌DATA CLEANING | PREPARATION
 In the Initial data preparation phase, we performed the following tasks:
-- Go get your data by CSV file
+-  Get data by CSV file
 -  Data transforming, cleaning & formatting ( i.e, taking your car to the mechanic workshop for proper check-up)
+-  Data Loading
 
 ### 🧠EXPLORATORY DATA ANALYSIS 
 EDA involved exploring the data to answer key questions, such as:
