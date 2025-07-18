@@ -6,7 +6,7 @@ This data analysis project aims to provide insights into the employee performanc
 By analyzing various aspects of the employee data, we seek to identify trends, make data driven recommendations, and gain a deeper understanding of the Company'scompensation, and Performance.
 
 ### 🔎PROJECT OBJECTIVE
-The goal IS to build an interactive Power BI dashboard that transforms raw HR data into actionable insighs
+The goal is to build an interactive Power BI dashboard that transforms raw HR data into actionable insighs
 
 ### 🗂️DATA SOURCES:
 The primary dataset used for this analysis is the "employee_data CSV file,
