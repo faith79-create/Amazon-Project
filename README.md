@@ -98,10 +98,13 @@ The Power BI dashboard serves as a powerful tool for the Palmoria Group's HR dep
 
 ### Dashborad Screenshot Preview and Overall Layout
 
-`![alt text](<img width="1366" height="768" alt="Screenshot (10)")`
+![alt text]![<img width="1366" height="768" alt="Screenshot (10)" src="https://github.com/user-attachments/assets/050c8b1e-1e01-44f7-b066-42e0895f28c8" />
+])
 
-`![alt text](<img width="1366" height="768" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/c17fffd2-8963-4edd-a651-7591976c4d15" />
-)`
+
+![alt text]![<img width="1366" height="768" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/2e99159a-e627-4423-857a-3c3a8f4e703b" />
+]
+
 
 ### Overall Layout
 
